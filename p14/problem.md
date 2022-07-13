@@ -1,0 +1,1 @@
+Find SAT scores of students whose high school names do not end with 'HS
