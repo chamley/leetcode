@@ -1,0 +1,2 @@
+Find the total number of events a user has triggered and the average number of days between the event date and date of when the user activated.
+Your output should include the user_id, event name, the number of events , and the average date between the event dates and the user's activated date.
