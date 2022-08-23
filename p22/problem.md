@@ -1,0 +1,1 @@
+Find the top 10 quarterbacks based on their ratings. Output the quarterback along with the corresponding rating and order the results by highest rating to lowest and then alphabetically by QB name.
